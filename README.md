@@ -8,8 +8,6 @@ Primeira aplicação do Ignite da Rocketseat. Aplicando e compreendendo os princ
 
 #### For production purposes, run: `yarn build`
 
-#### For testing, run: `yarn test`. This command run the tests made with jest
----
 
 
 Made in Rocketseat Ignite ReactJs | Done by Ítalo Torres
